@@ -1,5 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he1fire&show_icons=true&theme=discord_old_blurple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1fire&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he1fire&theme=discord_old_blurple&show_icons=true&hide_title&hide_rank)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1fire&theme=discord_old_blurple&layout=compact&hide_title)
 
 
 
