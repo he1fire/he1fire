@@ -17,7 +17,7 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tistory Blog](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Gmail&logoColor=white&link=https://he1fire.tistory.com)](https://he1fire.tistory.com)
+[![Tistory Blog](https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://he1fire.tistory.com)](https://he1fire.tistory.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmg7451@gmail.com)](mailto:cmg7451@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:cmg3172@naver.com)](mailto:cmg3172@naver.com)
 <!--
