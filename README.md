@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he1fire&theme=discord_old_blurple&show_icons=true&hide_title&hide_rank)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he1fire&theme=discord_old_blurple&show_icons=true&hide_title=true&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1fire&theme=discord_old_blurple&layout=compact&hide_title)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1fire&theme=discord_old_blurple&layout=compact&hide_title=true)
 
 
 
