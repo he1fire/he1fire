@@ -1,5 +1,5 @@
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he1fire&show_icons=true&theme=discord_old_blurple)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1fire&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=he1fire&show_icons=true&theme=discord_old_blurple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1fire&layout=compact)
 
 
 
